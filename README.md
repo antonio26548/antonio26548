@@ -1,6 +1,6 @@
 currently 
 
-I currently learning how to use git, ios(SwiftUi), and kotlin in summer vacation
+I currently learning how to use git, ios(SwiftUi), and kotlin in summer vacation\n
 I'm going to make a project with team after a week
 
 
