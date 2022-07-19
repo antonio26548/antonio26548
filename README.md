@@ -2,7 +2,7 @@ currently
 
 I currently learning how to use git, ios(SwiftUi), and kotlin in summer vacation  
 
-I'm going to make a project with team after a week
+I'm going to start a project with team after a week
 
 
 - 👋 Hi, I’m @antonio26548
